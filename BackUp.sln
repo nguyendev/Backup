@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackUpWindowsForm", "BackUpWindowsForm\BackUpWindowsForm.csproj", "{A76EA1E3-1B9D-4AF2-A291-8E940089DDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupDatabaseMongoDb", "BackupDatabaseMongoDb\BackupDatabaseMongoDb.csproj", "{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,22 @@ Global
 		{A76EA1E3-1B9D-4AF2-A291-8E940089DDC7}.Release|x64.Build.0 = Release|Any CPU
 		{A76EA1E3-1B9D-4AF2-A291-8E940089DDC7}.Release|x86.ActiveCfg = Release|Any CPU
 		{A76EA1E3-1B9D-4AF2-A291-8E940089DDC7}.Release|x86.Build.0 = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|ARM.Build.0 = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|x64.Build.0 = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Debug|x86.Build.0 = Debug|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|ARM.Build.0 = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|x64.ActiveCfg = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|x64.Build.0 = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|x86.ActiveCfg = Release|Any CPU
+		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
