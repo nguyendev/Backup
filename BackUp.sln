@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackUpWindowsForm", "BackUpWindowsForm\BackUpWindowsForm.csproj", "{A76EA1E3-1B9D-4AF2-A291-8E940089DDC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupDatabaseMongoDb", "BackupDatabaseMongoDb\BackupDatabaseMongoDb.csproj", "{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackupDatabaseMongoDb", "BackupDatabaseMongoDb\BackupDatabaseMongoDb.csproj", "{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BacklinkFTP", "BacklinkFTP\BacklinkFTP.csproj", "{3B5FCB94-64B1-4672-9026-08470FF6AEC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,22 @@ Global
 		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|x64.Build.0 = Release|Any CPU
 		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|x86.ActiveCfg = Release|Any CPU
 		{27AAA72F-EFA6-4BEA-B33B-6ECAE4EBFA3E}.Release|x86.Build.0 = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|ARM.Build.0 = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|x64.Build.0 = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Debug|x86.Build.0 = Debug|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|ARM.ActiveCfg = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|ARM.Build.0 = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|x64.Build.0 = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B5FCB94-64B1-4672-9026-08470FF6AEC7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
